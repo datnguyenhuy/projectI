@@ -1,0 +1,21 @@
+﻿  console.cpp
+  Source.cpp
+C:\Users\admin\source\repos\BTL-Game-Caro-master_v22\Server\Server\Source.cpp(315,57): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\admin\source\repos\BTL-Game-Caro-master_v22\Server\Server\Source.cpp(318,57): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\admin\source\repos\BTL-Game-Caro-master_v22\Server\Server\Source.cpp(335,55): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\admin\source\repos\BTL-Game-Caro-master_v22\Server\Server\Source.cpp(362,56): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\admin\source\repos\BTL-Game-Caro-master_v22\Server\Server\Source.cpp(367,55): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\admin\source\repos\BTL-Game-Caro-master_v22\Server\Server\Source.cpp(377,56): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\admin\source\repos\BTL-Game-Caro-master_v22\Server\Server\Source.cpp(383,56): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\admin\source\repos\BTL-Game-Caro-master_v22\Server\Server\Source.cpp(422,62): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\admin\source\repos\BTL-Game-Caro-master_v22\Server\Server\Source.cpp(424,62): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\admin\source\repos\BTL-Game-Caro-master_v22\Server\Server\Source.cpp(432,60): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\admin\source\repos\BTL-Game-Caro-master_v22\Server\Server\Source.cpp(444,38): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\admin\source\repos\BTL-Game-Caro-master_v22\Server\Server\Source.cpp(473,60): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\admin\source\repos\BTL-Game-Caro-master_v22\Server\Server\Source.cpp(475,60): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\admin\source\repos\BTL-Game-Caro-master_v22\Server\Server\Source.cpp(484,59): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+  All 42 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Server.vcxproj -> C:\Users\admin\source\repos\BTL-Game-Caro-master_v22\Server\x64\Release\Server.exe

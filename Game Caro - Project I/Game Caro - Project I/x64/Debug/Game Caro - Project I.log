@@ -1,0 +1,38 @@
+﻿  TextBox.cpp
+c:\users\thang\videos\game caro - project i\game caro - project i\textbox.cpp(10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\thang\videos\game caro - project i\game caro - project i\textbox.cpp(11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\thang\videos\game caro - project i\game caro - project i\textbox.cpp(45): warning C4018: '>=': signed/unsigned mismatch
+c:\users\thang\videos\game caro - project i\game caro - project i\textbox.cpp(45): warning C4018: '<=': signed/unsigned mismatch
+c:\users\thang\videos\game caro - project i\game caro - project i\textbox.cpp(46): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\thang\videos\game caro - project i\game caro - project i\textbox.cpp(51): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\thang\videos\game caro - project i\game caro - project i\textbox.cpp(65): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Source.cpp
+  PlayerOnline.cpp
+  PlayerOffline.cpp
+c:\users\thang\videos\game caro - project i\game caro - project i\playeroffline.cpp(15): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Player.cpp
+  Game.cpp
+c:\users\thang\videos\game caro - project i\game caro - project i\game.cpp(69): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\thang\videos\game caro - project i\game caro - project i\game.cpp(70): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\thang\videos\game caro - project i\game caro - project i\game.cpp(130): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\thang\videos\game caro - project i\game caro - project i\game.cpp(253): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\thang\videos\game caro - project i\game caro - project i\game.cpp(261): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\thang\videos\game caro - project i\game caro - project i\game.cpp(271): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\thang\videos\game caro - project i\game caro - project i\game.cpp(376): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\thang\videos\game caro - project i\game caro - project i\game.cpp(520): warning C4101: 'values': unreferenced local variable
+c:\users\thang\videos\game caro - project i\game caro - project i\game.cpp(520): warning C4101: 'protocol': unreferenced local variable
+  Caro.cpp
+c:\users\thang\videos\game caro - project i\game caro - project i\caro.cpp(54): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\thang\videos\game caro - project i\game caro - project i\caro.cpp(55): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\thang\videos\game caro - project i\game caro - project i\caro.cpp(101): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\thang\videos\game caro - project i\game caro - project i\caro.cpp(102): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\thang\videos\game caro - project i\game caro - project i\caro.cpp(108): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\thang\videos\game caro - project i\game caro - project i\caro.cpp(109): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Button.cpp
+c:\users\thang\videos\game caro - project i\game caro - project i\button.cpp(15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Box.cpp
+c:\users\thang\videos\game caro - project i\game caro - project i\box.cpp(14): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\thang\videos\game caro - project i\game caro - project i\box.cpp(58): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+  Generating Code...
+  Game Caro - Project I.vcxproj -> C:\Users\thang\Videos\Game Caro - Project I\x64\Debug\Game Caro - Project I.exe
+  Game Caro - Project I.vcxproj -> C:\Users\thang\Videos\Game Caro - Project I\x64\Debug\Game Caro - Project I.pdb (Partial PDB)

@@ -1,0 +1,80 @@
+﻿  Box.cpp
+E:\Hoc tập\20201\Project I\Game Caro - Project I\Game Caro - Project I\Box.cpp(14,36): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+E:\Hoc tập\20201\Project I\Game Caro - Project I\Game Caro - Project I\Box.cpp(58,30): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+  Button.cpp
+E:\Hoc tập\20201\Project I\Game Caro - Project I\Game Caro - Project I\Button.cpp(15,87): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Caro.cpp
+E:\Hoc tập\20201\Project I\Game Caro - Project I\Game Caro - Project I\Caro.cpp(54,14): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\Hoc tập\20201\Project I\Game Caro - Project I\Game Caro - Project I\Caro.cpp(55,14): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\Hoc tập\20201\Project I\Game Caro - Project I\Game Caro - Project I\Caro.cpp(101,16): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\Hoc tập\20201\Project I\Game Caro - Project I\Game Caro - Project I\Caro.cpp(102,16): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\Hoc tập\20201\Project I\Game Caro - Project I\Game Caro - Project I\Caro.cpp(108,18): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\Hoc tập\20201\Project I\Game Caro - Project I\Game Caro - Project I\Caro.cpp(109,18): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Game.cpp
+E:\Hoc tập\20201\Project I\Game Caro - Project I\Game Caro - Project I\Game.cpp(71,45): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\Hoc tập\20201\Project I\Game Caro - Project I\Game Caro - Project I\Game.cpp(72,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Hoc tập\20201\Project I\Game Caro - Project I\Game Caro - Project I\Game.cpp(133,39): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\Hoc tập\20201\Project I\Game Caro - Project I\Game Caro - Project I\Game.cpp(268,38): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\Hoc tập\20201\Project I\Game Caro - Project I\Game Caro - Project I\Game.cpp(276,38): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\Hoc tập\20201\Project I\Game Caro - Project I\Game Caro - Project I\Game.cpp(286,39): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\Hoc tập\20201\Project I\Game Caro - Project I\Game Caro - Project I\Game.cpp(392,19): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Hoc tập\20201\Project I\Game Caro - Project I\Game Caro - Project I\Game.cpp(539,32): warning C4101: 'values': unreferenced local variable
+E:\Hoc tập\20201\Project I\Game Caro - Project I\Game Caro - Project I\Game.cpp(539,18): warning C4101: 'protocol': unreferenced local variable
+  Player.cpp
+  PlayerOffline.cpp
+E:\Hoc tập\20201\Project I\Game Caro - Project I\Game Caro - Project I\PlayerOffline.cpp(15,39): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  PlayerOnline.cpp
+  Source.cpp
+  TextBox.cpp
+E:\Hoc tập\20201\Project I\Game Caro - Project I\Game Caro - Project I\TextBox.cpp(10,21): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\Hoc tập\20201\Project I\Game Caro - Project I\Game Caro - Project I\TextBox.cpp(11,62): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\Hoc tập\20201\Project I\Game Caro - Project I\Game Caro - Project I\TextBox.cpp(45,10): warning C4018: '>=': signed/unsigned mismatch
+E:\Hoc tập\20201\Project I\Game Caro - Project I\Game Caro - Project I\TextBox.cpp(45,29): warning C4018: '<=': signed/unsigned mismatch
+E:\Hoc tập\20201\Project I\Game Caro - Project I\Game Caro - Project I\TextBox.cpp(46,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\Hoc tập\20201\Project I\Game Caro - Project I\Game Caro - Project I\TextBox.cpp(51,9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\Hoc tập\20201\Project I\Game Caro - Project I\Game Caro - Project I\TextBox.cpp(65,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 164 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Game Caro - Project I.vcxproj -> E:\Hoc tập\20201\Project I\Game Caro - Project I\x64\Release\Game Caro - Project I.exe
